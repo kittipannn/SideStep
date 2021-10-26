@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7617c7e7d68a5b54985a62bcb0a172d6, type: 3}
+  m_Name: GameDataSpawnRate
+  m_EditorClassIdentifier: 
+  spawnRateLevel: 1
+  countInterstitialAd: 0
+  stageLevel:
+  - StageLevel: 1
+    checkpointDistance: 1000
+    platformValue: 0
+    pass: 0
+  - StageLevel: 2
+    checkpointDistance: 1200
+    platformValue: 0
+    pass: 0
+  - StageLevel: 3
+    checkpointDistance: 1400
+    platformValue: 0
+    pass: 0
+  - StageLevel: 4
+    checkpointDistance: 1600
+    platformValue: 0
+    pass: 0
+  - StageLevel: 5
+    checkpointDistance: 1800
+    platformValue: 0
+    pass: 0
+  - StageLevel: 6
+    checkpointDistance: 2000
+    platformValue: 0
+    pass: 0
+  - StageLevel: 7
+    checkpointDistance: 2200
+    platformValue: 0
+    pass: 0
+  - StageLevel: 8
+    checkpointDistance: 2400
+    platformValue: 0
+    pass: 0
+  - StageLevel: 9
+    checkpointDistance: 2600
+    platformValue: 0
+    pass: 0
+  - StageLevel: 10
+    checkpointDistance: 2800
+    platformValue: 0
+    pass: 0
+  - StageLevel: 11
+    checkpointDistance: 3000
+    platformValue: 0
+    pass: 0
+  - StageLevel: 12
+    checkpointDistance: 3200
+    platformValue: 0
+    pass: 0
+  - StageLevel: 13
+    checkpointDistance: 3400
+    platformValue: 0
+    pass: 0
+  - StageLevel: 14
+    checkpointDistance: 3600
+    platformValue: 0
+    pass: 0
+  - StageLevel: 15
+    checkpointDistance: 3800
+    platformValue: 0
+    pass: 0
+  - StageLevel: 16
+    checkpointDistance: 4000
+    platformValue: 0
+    pass: 0
+  - StageLevel: 17
+    checkpointDistance: 4200
+    platformValue: 0
+    pass: 0
+  - StageLevel: 18
+    checkpointDistance: 4400
+    platformValue: 0
+    pass: 0
+  - StageLevel: 19
+    checkpointDistance: 4600
+    platformValue: 0
+    pass: 0
+  - StageLevel: 20
+    checkpointDistance: 4800
+    platformValue: 0
+    pass: 0
+  finishStageMode: 0

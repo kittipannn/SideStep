@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 226f02ad376318648b3d2dde8e534715, type: 3}
+  m_Name: ShopData
+  m_EditorClassIdentifier: 
+  shopItems:
+  - modelName: Sniper
+    isUnlolcked: 1
+    mesh: {fileID: 4106691986641640505, guid: a7ef20ac51cbadc43b6462ef6a1dafea, type: 3}
+    unlockCost: 0
+  - modelName: Assasin
+    isUnlolcked: 1
+    mesh: {fileID: 5638324977789119269, guid: 4de4e49d4ee97a843bf698d18131914c, type: 3}
+    unlockCost: 500
+  - modelName: Bandit
+    isUnlolcked: 1
+    mesh: {fileID: -9009122783502730950, guid: a6b3d9fea8f09734bbde3c62624b9c87, type: 3}
+    unlockCost: 1000
+  - modelName: Knight
+    isUnlolcked: 1
+    mesh: {fileID: 4705521396714449643, guid: f6c03548be764ac48ba862695bbac792, type: 3}
+    unlockCost: 1500
+  - modelName: Viking
+    isUnlolcked: 1
+    mesh: {fileID: -7849127435017385391, guid: e8c6bdaeab5b9e143b830fde0d5c9d49, type: 3}
+    unlockCost: 2000
+  - modelName: Superegirl
+    isUnlolcked: 1
+    mesh: {fileID: 614017189332070938, guid: f629ea9b224d3c746a550fa07b461b44, type: 3}
+    unlockCost: 2500
+  - modelName: Business
+    isUnlolcked: 1
+    mesh: {fileID: 6376447348089472697, guid: 6be74f7e566407147b705cca2a0f72fd, type: 3}
+    unlockCost: 3000
+  - modelName: Mage
+    isUnlolcked: 1
+    mesh: {fileID: -6651272749063360639, guid: c004fa806dc65544aac900261e66ed1e, type: 3}
+    unlockCost: 3500
+  - modelName: Samurai
+    isUnlolcked: 1
+    mesh: {fileID: -1773025565736933792, guid: b6549103d26e4264a9e9fe115c47ee04, type: 3}
+    unlockCost: 4000
+  currentCharacterModel: 0

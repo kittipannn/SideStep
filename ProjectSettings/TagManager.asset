@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Platform1
+  - FalsePoint
+  - Spawner
+  - DestroyZone
+  - ObstaclePoint
+  - Coin
+  - TextHighScore
+  - TextScore
+  - CoinText
+  - CountScore
+  - Obstacle
+  - ScoreAndCoin
+  - JoyStick
+  - StartGame
+  - whenPlayerDead
+  - currentScore
+  - highScore
+  - Boost
+  - PlayerClone
+  - Platform
+  - SoundOn
+  - SoundOff
+  - Plat
+  - Obs1_1
+  - Obs1_2
+  - Obs1_3
+  - Obs1_4
+  - Obs2_1
+  - Obs2_2
+  - Obs2_3
+  - Obs2_4
+  - Coin Detector
+  - Platform2
+  - Platform3
+  - shield
+  - booster
+  - magnet
+  - magnetParticle
+  - checkFinish
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - PlayerClone
+  - CheckPlayerClone
+  - Obstacle
+  - Gacha
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

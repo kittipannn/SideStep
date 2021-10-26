@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 226f02ad376318648b3d2dde8e534715, type: 3}
+  m_Name: ShopData2
+  m_EditorClassIdentifier: 
+  shopItems: []
+  shop2:
+  - character: {fileID: 242436380864915537, guid: 6b85f735d1104fb45afcffad47d12902, type: 3}
+    unlockCost: 500
+    isUnlolcked: 1
+    purchased: 1
+  - character: {fileID: 7419863492683329918, guid: eb811f78bfab81344925863c4e6f44e6, type: 3}
+    unlockCost: 500
+    isUnlolcked: 0
+    purchased: 0
+  - character: {fileID: 5370676762986396350, guid: c7a58fc7e5308044db86afc490137050, type: 3}
+    unlockCost: 500
+    isUnlolcked: 0
+    purchased: 0
+  - character: {fileID: 4562723317275376322, guid: 202284d573ec94648bc74a9a97d5b954, type: 3}
+    unlockCost: 500
+    isUnlolcked: 0
+    purchased: 0
+  - character: {fileID: 3846587479976262617, guid: f70b398031142d540bca5a28b8bf8e8d, type: 3}
+    unlockCost: 500
+    isUnlolcked: 0
+    purchased: 0
+  - character: {fileID: 6252107936438563303, guid: d8f78e40ee849b640b6592f4f27d5ab2, type: 3}
+    unlockCost: 500
+    isUnlolcked: 0
+    purchased: 0
+  - character: {fileID: 6439781760402728319, guid: 9c9db13284210364ca35125be41d7807, type: 3}
+    unlockCost: 500
+    isUnlolcked: 0
+    purchased: 0
+  - character: {fileID: 716025768116516064, guid: 190a622615c456048b97810191fa9e71, type: 3}
+    unlockCost: 500
+    isUnlolcked: 0
+    purchased: 0
+  - character: {fileID: 8830014781916842642, guid: 08fed6f14d7ff144aa3d17d69a8ab1d0, type: 3}
+    unlockCost: 500
+    isUnlolcked: 0
+    purchased: 0
+  - character: {fileID: 3894688774740836551, guid: c4c2e5f830175b343a5cd6dae09bf746, type: 3}
+    unlockCost: 500
+    isUnlolcked: 0
+    purchased: 0
+  - character: {fileID: 4705362045140363409, guid: 981e191d949739943b87313808ef9114, type: 3}
+    unlockCost: 500
+    isUnlolcked: 0
+    purchased: 0
+  - character: {fileID: 1110969683704427108, guid: d1fdd47c07e4e7d4aa84dcc18c1b8170, type: 3}
+    unlockCost: 500
+    isUnlolcked: 0
+    purchased: 0
+  - character: {fileID: 5250278844577618320, guid: 65952b56b1df73041b792076455bceab, type: 3}
+    unlockCost: 1500
+    isUnlolcked: 0
+    purchased: 0
+  - character: {fileID: 7103953672513588000, guid: 63eae3867cea70c479272d5574b83b06, type: 3}
+    unlockCost: 2000
+    isUnlolcked: 0
+    purchased: 0
+  - character: {fileID: 89895353990070407, guid: 857842a7ea1683240aa935f21e5b21f4, type: 3}
+    unlockCost: 2500
+    isUnlolcked: 0
+    purchased: 0
+  - character: {fileID: 1211504037563000838, guid: 3319e7181bd41f940b5bfb1cbd6fbebb, type: 3}
+    unlockCost: 3000
+    isUnlolcked: 0
+    purchased: 0
+  - character: {fileID: 4645353233584239824, guid: 516e26609dc0e51418d5a280bfba0cff, type: 3}
+    unlockCost: 3500
+    isUnlolcked: 0
+    purchased: 0
+  - character: {fileID: 4588118348468783125, guid: e70ed4b333195b04395fbe758f4a1003, type: 3}
+    unlockCost: 4000
+    isUnlolcked: 0
+    purchased: 0
+  - character: {fileID: 4186526639404638721, guid: 50d0a1329ae224447884acd42d5009cb, type: 3}
+    unlockCost: 4500
+    isUnlolcked: 0
+    purchased: 0
+  - character: {fileID: 8054573550538869992, guid: ef29c16ab629f2549a5f0a5a1e9d461c, type: 3}
+    unlockCost: 5000
+    isUnlolcked: 0
+    purchased: 0
+  currentCharacterModel: 14
