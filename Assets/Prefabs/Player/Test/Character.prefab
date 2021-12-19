@@ -5131,6 +5131,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   coinParticle: {fileID: 5890685681167269097}
   followPlayer: 0
+  psObs: {fileID: 5733115281628110953, guid: 69c64452c0cbffa4eb654cbe32e892c1, type: 3}
 --- !u!136 &8172372049135659894
 CapsuleCollider:
   m_ObjectHideFlags: 0

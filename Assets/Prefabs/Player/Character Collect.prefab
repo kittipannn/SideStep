@@ -184,7 +184,6 @@ MonoBehaviour:
   controller: {fileID: 721023052438511481}
   normalSpeed: 11
   forwardSpeed: 20
-  boostSpeed: 25
   timeToBoost: 3
   isBoost: 0
   gravity: -9.81
@@ -201,6 +200,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 243b4d599494095429aa6287c1c6f6d2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  coinParticle: {fileID: 0}
+  followPlayer: 0
+  psObs: {fileID: 5733115281628110953, guid: 69c64452c0cbffa4eb654cbe32e892c1, type: 3}
 --- !u!136 &460229433588313753
 CapsuleCollider:
   m_ObjectHideFlags: 0

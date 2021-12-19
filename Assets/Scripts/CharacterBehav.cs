@@ -12,6 +12,7 @@ public class CharacterBehav : MonoBehaviour
     public bool followPlayer = false;
 
     public static CharacterBehav instance;
+    public GameObject psObs;
 
     private void Awake()
     {
@@ -70,6 +71,7 @@ public class CharacterBehav : MonoBehaviour
         this.gameObject.GetComponent<CharacterControl>().enabled = false;
         this.gameObject.GetComponent<CharacterBehav>().enabled = false;
         this.gameObject.SetActive(false);
+        Instantiate(psObs, this.transform.position, Quaternion.identity);
     }
     private void OnControllerColliderHit(ControllerColliderHit hit)
     {
